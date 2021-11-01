@@ -34,6 +34,9 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 -Generate new Component 
 
 -Add new component selector to app template page 
+
 -Generate a Sales Person class
+
 -In SalesPersonListCoponent,create sample data 
+
 -In sales-person-list file,build HTML table by looping over data
