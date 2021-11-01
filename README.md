@@ -25,3 +25,12 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+
+-----------Test front_Angular :
+-Create new project
+-Update main template page 
+-Generate new Component 
+-Add new component selector to app template page 
+-Generate a Sales Person class
+-In SalesPersonListCoponent,create sample data 
+-In sales-person-list file,build HTML table by looping over data
