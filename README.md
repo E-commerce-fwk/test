@@ -28,8 +28,11 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 
 ## Test front_Angular :
 -Create new project
--Update main template page 
+
+-Update main template page
+
 -Generate new Component 
+
 -Add new component selector to app template page 
 -Generate a Sales Person class
 -In SalesPersonListCoponent,create sample data 
